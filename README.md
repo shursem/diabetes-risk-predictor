@@ -4,6 +4,7 @@ An end-to-end machine learning project that predicts the likelihood of diabetes 
 
 ---
 
+
 ## 🚀 Features
 
 * 📊 Exploratory Data Analysis (EDA) and feature engineering
@@ -118,7 +119,13 @@ This project demonstrates:
 * Add user authentication & history tracking
 
 ---
+## 📚 Dataset Source
+
+Diabetes Prediction Dataset — Kaggle  
+Author: iammustafatz  
+Link: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
 ## 👨‍💻 Author
 
-Shursem Vashum
+Shursem Vashum  
+Aspiring Software Developer | Python | Machine Learning
